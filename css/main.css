@@ -68,16 +68,16 @@ section {
 }
 
 .text-light {
-    size: 30px;
+    font-size: 30px;
     color: #a0a0a0;
 }
 
 .text-secondary {
-    size: 30px;
+    font-size: 30px;
     color: #faa541;
 }
 
 .text-primary {
-    size: 16px;
+    font-size: 16px;
     color: #364147;
 }
